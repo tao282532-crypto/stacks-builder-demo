@@ -1,11 +1,5 @@
-# Stacks Builder Demo
+# Stacks Message Board
 
-This project is a simple demo for learning Stacks smart contracts.
+Simple project built on Stacks.
 
-Features
-- Hello world clarity contract
-- Builder learning log
-
-Tech
-- Stacks
-- Clarity
+Smart contract written in Clarity.
