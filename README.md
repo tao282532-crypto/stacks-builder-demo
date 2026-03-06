@@ -1,3 +1,11 @@
-# stacks-builder-demo
-# Stacks Builder Demo  This project is for learning Stacks smart contract development.
-Learning Stacks builder program.
+# Stacks Builder Demo
+
+This project is a simple demo for learning Stacks smart contracts.
+
+Features
+- Hello world clarity contract
+- Builder learning log
+
+Tech
+- Stacks
+- Clarity
