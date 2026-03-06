@@ -1,17 +1,20 @@
 # Stacks Message Board
 
-Simple project built on Stacks.
-
-Smart contract written in Clarity.
-# Stacks Message Board
-
 A simple decentralized message board built on Stacks.
 
-## Features
-- Post messages
-- Store messages on chain
-- Simple web interface
+## Smart Contract
 
-## Tech
-- Clarity smart contract
-- Stacks blockchain
+Contract ID
+
+SPJZ1C0AC0VMB3VM1AFSQASSS1D2JXDRPZ9Z17HT.message-board
+
+## Project Structure
+
+contracts/
+docs/
+frontend/
+
+## Built With
+
+Clarity Smart Contract Language
+Stacks Blockchain
